@@ -1,5 +1,5 @@
 # <p align="center">Personal Portfolio</p>
-![image](https://user-images.githubusercontent.com/93595710/218269495-00433bd1-e725-4bf5-94fd-2510d4539215.png)
+![image]()
 
 ## Deploy link🤹‍♂️: [[https://Jaipalreddy.netlify.app/](https://jaipalreddy.netlify.app/)]
 
